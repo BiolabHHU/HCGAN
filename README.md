@@ -21,6 +21,7 @@ Speech super-resolution
 - `predict_multi.py` - Used to create corresponding path files for training and validation.
 
   Usage:
+  
   `python predict_multi.py dset=4-16 experiment=ssrm_4-16_512_64 +filename=<folder path for input speech> +output=<folder path for output speech>`
 
 # How to use
