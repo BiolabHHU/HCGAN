@@ -1,5 +1,5 @@
 """
-This code is based on Facebook's HDemucs code: https://github.com/facebookresearch/demucs
+This code is based on code: https://github.com/slp-rl/aero
 """
 import itertools
 import logging
