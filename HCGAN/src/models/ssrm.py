@@ -1,4 +1,6 @@
-
+"""
+This code is based on code: https://github.com/slp-rl/aero
+"""
 import numpy as np
 import torch
 from torch import nn
